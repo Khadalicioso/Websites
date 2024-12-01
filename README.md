@@ -59,12 +59,12 @@ A collection of modern, responsive landing pages and web applications built with
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/Websites.git
+git clone https://github.com/Khadalicioso/modern_web_development_projects.git
 ```
 
 2. Navigate to specific project:
 ```bash
-cd [Project-Name]
+cd modern_web_development_projects
 ```
 
 3. Install dependencies (if applicable):
